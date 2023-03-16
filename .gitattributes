@@ -1,2 +1,4 @@
 Content/FloatingIsland/Textures/T_MountainRock_Closed_D2.uasset filter=lfs diff=lfs merge=lfs -text
 Content/FloatingIsland/Textures/T_MountainRock_Closed_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/FloatingIsland_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/SkyScraper_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
