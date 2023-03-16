@@ -2,3 +2,6 @@ Content/FloatingIsland/Textures/T_MountainRock_Closed_D2.uasset filter=lfs diff=
 Content/FloatingIsland/Textures/T_MountainRock_Closed_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Maps/FloatingIsland_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Maps/SkyScraper_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Skyscraper/Mesh/Flower_Pot/1_grassus_2_08.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Sound/S_LobbyBGM.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Volcano/StaticMesh/surfe2.uasset filter=lfs diff=lfs merge=lfs -text
